@@ -794,7 +794,7 @@ h3.my-profession
         max-width: 100%;
     }
 }
-@media (max-width: 767px)
+@media (max-width: 658px)
 {
     .contact .contact-form .col-6,
     .contact .contact-info-item,
